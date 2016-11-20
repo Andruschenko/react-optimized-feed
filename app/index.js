@@ -3,11 +3,7 @@ import ReactDOM from 'react-dom';
 
 import App from './App';
 
-const Main = () => (
-  <App />
-);
-
 ReactDOM.render(
-  <Main />,
+  <App style={{flex: 1}} />,
   document.getElementById('app')
 );

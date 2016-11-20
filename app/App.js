@@ -4,6 +4,9 @@ import Feed from './components/Feed';
 
 import styles from './app.scss';
 
+/**
+ * This class contains some code for API calls which we might need during the workshop
+ */
 export default class App extends React.PureComponent {
   constructor(props) {
     super(props);
@@ -13,7 +16,7 @@ export default class App extends React.PureComponent {
   }
 
   componentDidMount() {
-    this.getPosts();
+    // this.getPosts();
   }
 
   getPosts() {

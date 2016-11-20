@@ -1,5 +1,4 @@
-.feed {
-
+.container {
   margin: 2rem;
 
   span {
@@ -8,4 +7,21 @@
     font-weight: 300;
     padding: 20px;
   }
+}
+
+.listItem {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 2rem;
+
+  img {
+    display: flex;
+  }
+  p {
+    display: flex;
+    margin-left: 2rem;
+  }
+
 }
