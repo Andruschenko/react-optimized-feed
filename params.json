@@ -1,0 +1,6 @@
+{
+  "name": "React-optimized-feed",
+  "tagline": "Part of a Wix workshop to optimize the performance of a react app showing a feed",
+  "body": "# React Performance Optimization\r\n\r\nThis is a rendered list of images and text to be optimized in the WIX workshop on optimization.\r\n\r\n#### Run\r\n\r\nClone the repository and run\r\n\r\n\t$ npm start\r\n\t\r\nThen view the app at `localhost:9000`\r\n\r\n#### Comments\r\n\r\n* I had some trouble with restrictions of the Instagram API and then just switched to displaying images from lorem picsum. \r\n* I'll further update the code for the meeting.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
